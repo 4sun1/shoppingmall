@@ -1,0 +1,2 @@
+kakaotalk_register member
+기능 개발 마저 완료
